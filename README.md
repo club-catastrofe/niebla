@@ -2,14 +2,15 @@
 
 La estructura actual del proyecto es:
 
-.
-├── README.md
-├── backend
-├── docs
-├── frontend
-└── scripts
+```.
+```├── README.md
+```├── backend
+```├── docs
+```├── frontend
+```└── scripts
 
 4 directorios, 1 archivo
+
 
 
 Este es el proyecto de difusión de música independiente. En este documento se encuentra una
@@ -21,4 +22,4 @@ Si quieres contribuir escribe a clubcatastrofe@gmail.com
 
 Colaboradores actuales: Luis y José
 
-prueba de edición
+
