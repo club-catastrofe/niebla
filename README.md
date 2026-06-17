@@ -21,3 +21,4 @@ Si quieres contribuir escribe a clubcatastrofe@gmail.com
 
 Colaboradores actuales: Luis y José
 
+prueba de edición
